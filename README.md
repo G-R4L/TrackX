@@ -1,7 +1,7 @@
 # TrackX
 Alat pelacak IP &amp; domain dengan peta real-time, informasi ASN, dan UI modern.
 
-# 🌍 TrackX - GEO IP & Domain Intelligence Toolkit
+# 🌍 TrackX - GEO IP & Domain Tracker
 
 **TrackX** adalah aplikasi GUI OSINT berbasis Python yang dapat melakukan pelacakan lokasi IP & domain secara real-time, menampilkan hasil intelijen secara mendetail, serta memvisualisasikan lokasi dalam bentuk peta interaktif dan Google Maps. Dilengkapi fitur WHOIS ASN, Reverse DNS, Proxy Checker, DNS Server Resolver, dan pencatatan otomatis ke database lokal.
 
@@ -33,7 +33,7 @@ Alat pelacak IP &amp; domain dengan peta real-time, informasi ASN, dan UI modern
 
 ## 🚀 Instalasi
 
-### 🔗 Prasyarat
+### 🔗 Persyarat
 
 - Python 3.8+
 - Pip
