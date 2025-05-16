@@ -28,11 +28,9 @@
 
 ---
 
-## 🚀 Instalasi
-- Downloads filenya dan setelah diunduh anda harus menginstal
- ```bash
-pip install customtkinter requests dnspython ipwhois pytz folium
-
+## 🚀 Instalasi Manual
+- Downloads filenya dan setelah diunduh anda harus menginstal sesuai di install dependencies 
+dan setelah itu jalankan file python TrackX.py dan anda sudh dapat menggunakannya 
 
 
 ## 🔗 Persyarat
@@ -44,3 +42,5 @@ pip install customtkinter requests dnspython ipwhois pytz folium
 
 ```bash
 pip install -r requirements.txt
+pip install customtkinter requests dnspython ipwhois pytz folium
+
