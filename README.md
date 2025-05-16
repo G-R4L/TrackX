@@ -29,6 +29,11 @@
 ---
 
 ## 🚀 Instalasi
+- Downloads filenya dan setelah diunduh anda harus menginstal
+ ```bash
+pip install customtkinter requests dnspython ipwhois pytz folium
+
+
 
 ### 🔗 Persyarat
 
