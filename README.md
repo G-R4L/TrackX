@@ -35,7 +35,7 @@ pip install customtkinter requests dnspython ipwhois pytz folium
 
 
 
-### 🔗 Persyarat
+## 🔗 Persyarat
 
 - Python 3.8+
 - Pip
