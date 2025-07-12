@@ -2,7 +2,7 @@
 
 **TrackX** adalah aplikasi GUI OSINT berbasis Python yang dapat melakukan pelacakan lokasi IP & domain secara real-time, menampilkan hasil intelijen secara mendetail, serta memvisualisasikan lokasi dalam bentuk peta interaktif dan Google Maps. Dilengkapi fitur WHOIS ASN, Reverse DNS, Proxy Checker, DNS Server Resolver, dan pencatatan otomatis ke database lokal.
 
-> 🔧 Dibuat oleh saya
+>  Dibuat oleh saya
 
 ---
 
