@@ -23,7 +23,7 @@
 
 ## 🖥️ Screenshot UI
 
-![TrackX UI Preview](https://i.imgur.com/XjH1rA9.png)  
+![TrackX UI Preview](TrackX/TrackX.png)  
 *UI modern dan fungsional dengan dark mode serta animasi fade-in title.*
 
 ---
