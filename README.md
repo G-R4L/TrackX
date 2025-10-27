@@ -24,8 +24,6 @@
 ## 🖥️ Screenshot UI
 
 ![TrackX UI Preview](TrackX/TrackX.png)  
-*UI modern dan fungsional dengan dark mode serta animasi fade-in title.*
-
 ---
 
 ## 🚀 Instalasi Manual
