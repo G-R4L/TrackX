@@ -33,7 +33,7 @@ dan setelah itu jalankan file python TrackX.py dan anda sudh dapat menggunakanny
 
 ## 🔗 Persyarat
 
-- Python 3.8+
+- Python 3.10+
 - Pip
 
 ### 🔧 Install Dependencies
