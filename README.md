@@ -39,7 +39,5 @@ dan setelah itu jalankan file python TrackX.py dan anda sudh dapat menggunakanny
 ### 🔧 Install Dependencies
 
 ```bash
-pip install -r requirements.txt
-- or
 pip install customtkinter requests dnspython ipwhois pytz folium
 
